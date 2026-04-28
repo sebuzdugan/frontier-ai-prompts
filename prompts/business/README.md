@@ -1,5 +1,7 @@
 # Business Prompts
 
+Looking for client acquisition specifically? Start with the dedicated [Freelance Client Prompt Stack](../freelance-clients/README.md).
+
 ## Offer Clarity
 
 Best for: making an offer easier to understand and buy.

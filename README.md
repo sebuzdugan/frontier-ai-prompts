@@ -1,6 +1,8 @@
 # Frontier Prompt Playbook
 
-A clean, practical prompt library for people who use AI every day: software builders, creators, operators, analysts, students, founders, and online professionals.
+A clean, practical prompt library for people who use AI every day: freelancers, software builders, creators, operators, analysts, students, founders, and online professionals.
+
+The current featured workflow is **landing freelance clients with AI**: choosing a niche, packaging a service offer, creating proof assets, building prospect lists, writing specific outreach, preparing calls, sending proposals, and following up without sounding automated.
 
 This repo is intentionally model-aware. It is updated around the 2026 frontier model generation: GPT-5.5, Claude Opus 4.7, Gemini 3.1 Pro, and other long-context reasoning models. The prompts are written to work across ChatGPT, Claude, Gemini, Perplexity, Copilot, Cursor, Claude Code, Codex, and similar tools.
 
@@ -16,6 +18,7 @@ This repo is intentionally model-aware. It is updated around the 2026 frontier m
 
 | Pack | Best for |
 | --- | --- |
+| [Freelance Clients](prompts/freelance-clients/README.md) | Niche selection, service offers, proof assets, lead lists, outreach, proposals, follow-up |
 | [Daily Work](prompts/daily-work/README.md) | Email, planning, meetings, decisions, personal productivity |
 | [Coding](prompts/coding/README.md) | Code review, debugging, architecture, tests, refactors |
 | [Content](prompts/content/README.md) | Posts, newsletters, scripts, editing, repurposing |
@@ -58,6 +61,20 @@ Work process:
 Output format:
 [bullets/table/email/JSON/checklist/report/code/etc.]
 ```
+
+## Freelance Client Workflow
+
+Use the freelance client pack as a step-by-step stack:
+
+1. Pick one buyer niche.
+2. Turn one skill into a fixed-scope service wedge.
+3. Build a proof asset before outreach.
+4. Create a small prospect list with real triggers.
+5. Write specific outreach and follow-ups.
+6. Prepare discovery calls and proposals.
+7. Track replies, calls, pilots, and retained clients.
+
+Start here: [prompts/freelance-clients/README.md](prompts/freelance-clients/README.md)
 
 ## What Makes These Prompts Different
 

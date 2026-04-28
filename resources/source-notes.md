@@ -10,5 +10,6 @@ Key source themes:
 - Anthropic: clear/direct prompting, separating data from instructions, examples, XML-style structure, long-running task verification.
 - Google: clear instructions, multimodal/long-context inputs, structured extraction and synthesis.
 - Public GitHub prompt libraries: practical user tasks, role-based prompts, categorized prompt discovery.
+- Freelance client acquisition: official Upwork fee and Connects documentation, LinkedIn Services Page documentation, Google/Yahoo sender guidance, and marketplace/platform policy pages.
 
 No large prompt collection has been copied into this repo. External resources are linked in `resources/github-prompt-resources.md`.

@@ -8,11 +8,15 @@ This repo is intentionally model-aware. It is updated around the 2026 frontier m
 
 ## Start Here
 
-1. Pick the folder closest to your task.
-2. Copy a prompt.
-3. Replace the bracketed fields like `[goal]`, `[audience]`, and `[constraints]`.
-4. Add your real context: files, notes, screenshots, data, examples, links, or rough drafts.
-5. Ask the model to check assumptions and produce a final answer in the format you need.
+If you want clients, start here:
+
+1. Open the [Freelance Client Prompt Stack](prompts/freelance-clients/README.md).
+2. Copy the [14-day sprint template](templates/freelance-client-kit/14-day-client-sprint.md).
+3. Track prospects in the [lead tracker CSV](templates/freelance-client-kit/lead-tracker.csv).
+4. Build one proof asset before sending outreach.
+5. Use the outreach, Loom, discovery, and proposal templates to close a fixed-scope pilot.
+
+For general prompting, pick the folder closest to your task, replace bracketed fields like `[goal]`, `[audience]`, and `[constraints]`, then add your real context.
 
 ## Prompt Packs
 
@@ -64,7 +68,7 @@ Output format:
 
 ## Freelance Client Workflow
 
-Use the freelance client pack as a step-by-step stack:
+Use the freelance client pack and templates as a step-by-step stack:
 
 1. Pick one buyer niche.
 2. Turn one skill into a fixed-scope service wedge.
@@ -74,7 +78,11 @@ Use the freelance client pack as a step-by-step stack:
 6. Prepare discovery calls and proposals.
 7. Track replies, calls, pilots, and retained clients.
 
-Start here: [prompts/freelance-clients/README.md](prompts/freelance-clients/README.md)
+Start here:
+
+- [Freelance Client Prompt Stack](prompts/freelance-clients/README.md)
+- [Freelance Client Kit](templates/freelance-client-kit/README.md)
+- [Client Acquisition Checklist](checklists/client-acquisition.md)
 
 ## What Makes These Prompts Different
 

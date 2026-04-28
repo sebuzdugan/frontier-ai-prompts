@@ -4,6 +4,17 @@ Use this stack to land freelance clients with a focused offer, a proof asset, sp
 
 The goal is not to automate spam. The goal is to use AI to research faster, diagnose better, write sharper messages, and turn a vague skill into a client-ready system.
 
+## Companion Templates
+
+- [14-day client sprint](../../templates/freelance-client-kit/14-day-client-sprint.md)
+- [Lead tracker CSV](../../templates/freelance-client-kit/lead-tracker.csv)
+- [Cold outreach scripts](../../templates/freelance-client-kit/cold-outreach-scripts.md)
+- [Loom audit script](../../templates/freelance-client-kit/loom-audit-script.md)
+- [Upwork proposal template](../../templates/freelance-client-kit/upwork-proposal-template.md)
+- [Discovery call script](../../templates/freelance-client-kit/discovery-call-script.md)
+- [Fixed-scope proposal template](../../templates/freelance-client-kit/proposal-template.md)
+- [Client acquisition checklist](../../checklists/client-acquisition.md)
+
 ## 1. Niche Selector
 
 Best for: choosing a buyer segment you can reach and serve quickly.
